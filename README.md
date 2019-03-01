@@ -13,7 +13,7 @@ Language: Matlab
 
 1. By **Thomas Pintaric** - TU WIEN
 
-2. By**Minh Nhat Vu** ACIN
+2. By **Minh Nhat Vu** ACIN
 
 ## License
 
